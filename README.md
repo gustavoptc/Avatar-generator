@@ -4,7 +4,7 @@ O Avatar Generator é uma aplicação que cria avatares exclusivos a partir de t
 # Como executar 
 1-Clone o repositório para o seu computador. 
 2-Acesse a pasta do projeto. 
-}3-Instale as dependências do projeto utilizando o comando npm i. 
+3-Instale as dependências do projeto utilizando o comando npm i. 
 4-Inicie o projeto com o comando npm run start.
 
 # Para Utilizar
